@@ -2,10 +2,12 @@
 <h2>Dorganize automates the hassel of organizing different files you download.</h2>
 
 <h4> We all have our desktop or Download folders looking like this.</h4>
+
 ![image](https://github.com/smregit/Dorganise/assets/97747064/be61e295-80b5-4f5a-a374-124c803e9a50)
 
 
 <h4>Make is look like this automatically</h4>
+
 ![image](https://github.com/smregit/Dorganise/assets/97747064/2d13b787-42f2-4e4a-ac17-ea838b0a368f)
 
 <hr>
